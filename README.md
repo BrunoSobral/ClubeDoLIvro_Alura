@@ -1,4 +1,4 @@
-# ClubeDoLIvro_Alura
+# ClubeDoLivro_Alura
 Dashboard em Power BI - Curso Alura - Clube Do Livro
 
 Morgana e a Milena, que são as gerentes do e-commerce Clube do Livro, é um famoso e-commerce que utilizamos no curso, passaram para nós algumas missões, algumas métricas do que elas querem visualizar para nós montarmos um dash.
